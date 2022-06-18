@@ -1,0 +1,4 @@
+package teste
+
+class testaLacos {
+}
