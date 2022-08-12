@@ -5,4 +5,6 @@ fun main() {
     arr.add(9)
     print(arr.map { num -> num + 10 })
     numeros.forEach { num -> println(num) }
+
+    print("OI")
 }
